@@ -60,7 +60,7 @@ The project is split into **three parts**:
 
 ---
 
-## Submission Instructions
+## Submission Instructions 
 
 * Submit a GitHub/GitLab repository
 * Ensure the project can be set up with standard commands
